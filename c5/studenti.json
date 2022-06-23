@@ -1,0 +1,52 @@
+[
+    {
+        "ime": "John Smith",
+        "grad": "New York",
+        "prosek": 8.9
+    },
+    {
+        "ime": "Eva Stevens",
+        "grad": "New York",
+        "prosek": 8.2
+    },
+    {
+        "ime": "Ron Murphy",
+        "grad": "Orlando",
+        "prosek": 9.1
+    },
+    {
+        "ime": "Brian Hedgins",
+        "grad": "Los Angeles",
+        "prosek": 7.3
+    },
+    {
+        "ime": "Peter Gregory",
+        "grad": "Chicago",
+        "prosek": 9.8
+    },
+    {
+        "ime": "Yvonne Johnson",
+        "grad": "Boson",
+        "prosek": 10.0
+    },
+    {
+        "ime": "Ophelia Evans",
+        "grad": "New York",
+        "prosek": 6.8
+    },
+    {
+        "ime": "Leeroy Duncan",
+        "grad": "Los Angeles",
+        "prosek": 7.5
+    },
+    {
+        "ime": "Aaron Masterson",
+        "grad": "Detroit",
+        "prosek": 6.1
+    },
+    {
+        "ime": "Claudia Kenneth",
+        "grad": "San Francisco",
+        "prosek": 9.4
+    }
+]
