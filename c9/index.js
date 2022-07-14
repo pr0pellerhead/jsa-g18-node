@@ -8,8 +8,8 @@ app.use(express.json());
 app.post('/studenti', handlers.addStudent);
 app.get('/studenti', handlers.getAllStudents);
 app.get('/studenti/:id', handlers.getOneStudent);
-app.put('/studenti/:id', handlers.updateStudent);
-app.delete('/studenti/:id', handlers.deleteStudent);
+app.put('/studenti/:id', handlers.updateStudent); // map
+app.delete('/studenti/:id', handlers.deleteStudent); // filter
 
 app.listen(8080, err => {
     if (err) return console.log(err);
