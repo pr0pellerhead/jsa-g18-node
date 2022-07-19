@@ -1,0 +1,29 @@
+[
+    {
+        id: 1,
+        ime: "Pero",
+        prezime: "Perovski",
+        prosek: 7.8
+    },
+    {
+        id: 2,
+        ime: "Janko",
+        prezime: "Jankovski",
+        prosek: 9.2
+    },
+    {
+        id: 3,
+        ime: "Stanko",
+        prezime: "Stankovski",
+        prosek: 8.9
+    }
+]
+
+// JSON -> BSON (Binary JSON)
+
+// SQL - structured query language
+// Oracle, MySQL, MariaDB, Postgress, Interbase...
+
+// NO-SQL - Not Only SQL
+// MongoDB, Redis, Neo4J, Kassandra, CouchDB...
+
