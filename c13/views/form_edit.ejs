@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Edit <%=data.title%></title>
+</head>
+
+<body>
+    <form method="post" action="/callback/post/<%=data._id%>">
+        <input type="text" name="title" placeholder="Blogpost Title" value="<%=data.title%>" required />
+        <br />
+        <br />
+        <textarea name="content" placeholder="Blogpost Content" required><%=data.content%></textarea>
+        <br />
+        <br />
+        <button type="submit">Update Blogpost</button>
+    </form>
+</body>
+
+</html>

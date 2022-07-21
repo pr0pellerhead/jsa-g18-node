@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const pages = require('./handlers/pages');
 const callbacks = require('./handlers/callbacks');
 
-const dsn = '';
+const dsn = 'mongodb+srv://dev:deqHj2np26b9UPaa@cluster0.c3iyx.mongodb.net/baza1?retryWrites=true&w=majority';
 
 mongoose.connect(
     dsn,
